@@ -1,3 +1,5 @@
+// Version defines
+
 #define MTA_DM_VERSION 0x0100
 #define MTA_DM_VERSIONSTRING "1.0"
 #define MTA_DM_ASE_VERSION "1.0.1n"
